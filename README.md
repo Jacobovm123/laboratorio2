@@ -1,6 +1,6 @@
 # laboratorio2
-laboratorio2, craer un micro servicio tipo restfull
+laboratorio2, craer un micro servicio tipo RESTful
 Jacobo Velasquez Mejia 
-No. carne 1290-156-4043
+No. carne 1290-15-4043
 
 
